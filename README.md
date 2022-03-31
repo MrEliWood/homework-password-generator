@@ -11,4 +11,4 @@ The user is prompted to:
 
 https://mreliwood.github.io/homework-password-generator/
 
-![Screenshot of password generator](http://url/to/img.png)
+![Screenshot of password generator](https://github.com/MrEliWood/homework-password-generator/blob/main/Assets/Screenshot.png)
